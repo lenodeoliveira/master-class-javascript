@@ -37,3 +37,8 @@ const numberConst = 'const';
 //só é inicializada posteriormente.
 //assim como o let respeita o bloco.
 //uma vez atribuido não pode ser redeclara nem reatribuída.
+
+
+/*
+OBS: ao declar uma váriavel sem var, let ou const ela fica no escopo global
+*/
