@@ -39,7 +39,24 @@
 console.log((-2 >>> 0).toString(2).padStart(32,0));
 console.log((2147483647).toString(2).padStart(32,0));
 
+//conversor de números
+console.log(Number('10'));//10
+console.log(Number('10.5'));//10.5
+console.log(Number('0xFF'));//255
+console.log(Number());//0
+console.log(Number('JS'));//not a number
 
+console.log('10' + 0); //concatenação '100'
 
+//método toString para fazer conversão de diferentes tipos de base.
+console.log((0xA).toString(10)); //de hexadecimal para conversão para base decimal
+console.log((0b1010).toString(16)); //de binário para hexadecimal 
 
+//ParseInt
+console.log(parseInt('10', 10)); // conversão de string para base 10
+console.log(parseInt('A', 16)); // conversão de string para base 16
 
+//parseFloat
+console.log(parseFloat('10')); //10
+console.log(parseFloat('2.5')); //2.5
+console.log(parseFloat('0xFF')); //0
