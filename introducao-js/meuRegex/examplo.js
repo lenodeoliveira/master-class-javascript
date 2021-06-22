@@ -9,6 +9,14 @@ regExp = /^\w+@\w+\.\w{2,3}$/; //final pode ser qualquer conjunto de [a-zA-Z0-9_
 regExp = /^\w+@\w+\.(\w{2,3})+$/; //colocando um quantificador () entorno de um grupo de caracter com um +, o que significa que queremos pelo menos 1
 regExp = /^\w+@\w+(\.\w{2,3})+$/; //com o () entorno queremos dizer que esse trecho deve se repetir pelo menos uma ou mais vezes.
 
+//extraindo valores
+//vamos separar a primeira parte do email (john) da segunda (.com.br.ce.rl) 
 
-let result = regExp.exec('j0asa@h0tm.com.br.ce.rl');
+regExp = /^(\w+)@\w+(\.\w{2,3})+$/; // ao colocarmos os parênteses entorno da da primeira parte do regex, estamos extraindo os primeiros valores.
+regExp = /^(\w+)@(\w+)(\.\w{2,3})+$/; // ao colocarmos os parênteses entorno da da segunda parte do regex, estamos extraindo o segundo valor.
+
+
+let result = regExp.exec('john@hotmail.com.br.ce.rl');
 console.log(result[0]);
+console.log(result[1]); //primeira parte do email
+console.log(result[2]); //segunda parte do email
