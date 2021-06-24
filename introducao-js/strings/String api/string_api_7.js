@@ -6,3 +6,6 @@
 " Self ".trim();
 " Scheme ".trimLeft();
 " Perl ".trimRight();
+
+console.log('Python'.indexOf('p'))
+console.log("\"JavaScript Masterclass\"")
