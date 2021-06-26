@@ -9,6 +9,12 @@
 * Quiz :heavy_check_mark:
 * Variáveis :heavy_check_mark:
 
-
+### TIPOS DE VARIÁVEIS
+* TIPOS DE DADOS
+* QUIZ 2
+* NUMBER
+  * OPERADORES NUMÉRICOS
+  * CONVERSÃO NUMÉRICA
+  * IEEE 754
 
 
