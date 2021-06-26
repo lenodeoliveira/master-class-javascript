@@ -18,7 +18,7 @@ const book2 = {
 
 console.log(book2 === book); // resultado é false pois ele compara a referência dos objetos.
 //comparando objetos por meio de chaves e valores.
-
+//Essa comparação é superficial
 let equal = true;
 for(let key in book) {
     if (book[key] !== book2[key]) equal = false;
