@@ -13,3 +13,14 @@ console.log(Object.keys(javascript)); //retorna as chaves das propriedades
 console.log(Object.values(javascript)); //retorna os valores das propriedades
 console.log(Object.entries(javascript)); //retorna um array com arrays contendo as chaves e os valores das propriedades
 console.log(Object.is(javascript));// compara apenas referências.
+
+
+//defineProperty
+const objectJs = {};
+
+Object.defineProperty(objectJs, 'name', {
+    value: 'Javascript',
+});
+
+console.log(objectJs);
+console.log(objectJs.name);
