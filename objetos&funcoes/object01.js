@@ -100,3 +100,23 @@ for (let key in book6) {
     console.log(key)//imprimindo as chaves
     console.log(book6[key])// acessando os valores das chaves
 }
+
+//tipo undefined
+const bookUndefined = {
+    title: 'Clean Code',
+    author: 'Robert C. Martin',
+    pages: 464,
+    language: 'English',
+    available: true,
+};
+
+console.log(bookUndefined.published)//consultado chave que não existe;
+//verificando a existencia de uma propriedade com in 
+console.log('title' in bookUndefined);
+//removendo propriedade
+delete bookUndefined.author;
+
+console.log(bookUndefined);
+//apagando dinamicamente.
+delete bookUndefined['available'];
+
