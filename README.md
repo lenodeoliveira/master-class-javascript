@@ -60,3 +60,23 @@
 * Exercícios 4 :hourglass_flowing_sand:
 * Destructuring :hourglass_flowing_sand:
 
+
+### COLEÇÕES 
+
+* Array :hourglass_flowing_sand:
+    * Array Mutator API :hourglass_flowing_sand:
+    * Array Iteration API :hourglass_flowing_sand:
+    * Array Acessor API :hourglass_flowing_sand:
+
+* Exercício 5 :hourglass_flowing_sand:
+* Exercício 6 :hourglass_flowing_sand:
+* Exercício 7 :hourglass_flowing_sand:
+* MAP :hourglass_flowing_sand:
+    * WeakMap :hourglass_flowing_sand:
+
+* Set :hourglass_flowing_sand:
+    * WeaSet :hourglass_flowing_sand:
+
+* Iterables e Iterators 
+* Exercício 8 :hourglass_flowing_sand:
+
