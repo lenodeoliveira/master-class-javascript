@@ -10,6 +10,7 @@
 * Variáveis :heavy_check_mark:
 
 ### TIPOS DE VARIÁVEIS
+
 * TIPOS DE DADOS :heavy_check_mark:
 * QUIZ 2 :heavy_check_mark:
 * NUMBER :heavy_check_mark:
@@ -17,17 +18,32 @@
   * CONVERSÃO NUMÉRICA :heavy_check_mark:
   * IEEE 754 :heavy_check_mark:
   * MATH API :heavy_check_mark:
+
 * QUIZ 3 :heavy_check_mark:
 * STRING :heavy_check_mark:
   * TEMPLATE LITERAL :heavy_check_mark:
   * STRING API :heavy_check_mark:
+
 * QUIZ 4 :heavy_check_mark:
 * BOOLEAN :heavy_check_mark:
   * OPERADORES BOOLEANOS :heavy_check_mark:
+
 * QUIZ 5 :heavy_check_mark:
 * SYMBOL :heavy_check_mark:
 * REGEXP :heavy_check_mark:
 * EXCERCÍCIO 1 :heavy_check_mark:
 
+
+### OBJECTOS E FUNÇÕES 
+
+* Object :heavy_check_mark:
+   * Undefined e Null :heavy_check_mark:
+   * Comparação de objetos :heavy_check_mark:
+   * Herança :hourglass_flowing_sand:
+   * Object API :hourglass_flowing_sand:
+
+* JSON :hourglass_flowing_sand:
+* Excício 2 :hourglass_flowing_sand:
+* Function :hourglass_flowing_sand:
 
 
