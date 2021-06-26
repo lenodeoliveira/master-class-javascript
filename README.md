@@ -45,5 +45,18 @@
 * JSON :hourglass_flowing_sand:
 * Excício 2 :hourglass_flowing_sand:
 * Function :hourglass_flowing_sand:
+    * THIS :hourglass_flowing_sand:
+    * GETTER E SETTER :hourglass_flowing_sand:
+    * CALL, APPLY E BIND :hourglass_flowing_sand:
+    * NEW :hourglass_flowing_sand:
+    * INSTANCEOF :hourglass_flowing_sand:
 
+* Exercício 3 :hourglass_flowing_sand:
+* Arrow Function :hourglass_flowing_sand:
+* Execution Context :hourglass_flowing_sand:
+    * Closures :hourglass_flowing_sand:
+
+* Tratamento de exceções :hourglass_flowing_sand:
+* Exercícios 4 :hourglass_flowing_sand:
+* Destructuring :hourglass_flowing_sand:
 
