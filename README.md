@@ -34,7 +34,7 @@
 * EXCERCÍCIO 1 :heavy_check_mark:
 
 
-### OBJECTOS E FUNÇÕES 
+### OBJETOS E FUNÇÕES 
 
 * Object :heavy_check_mark:
    * Undefined e Null :heavy_check_mark:
