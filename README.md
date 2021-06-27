@@ -40,7 +40,7 @@
    * Undefined e Null :heavy_check_mark:
    * Comparação de objetos :heavy_check_mark:
    * Herança :heavy_check_mark:
-   * Object API :hourglass_flowing_sand:
+   * Object API :heavy_check_mark:
 
 * JSON :hourglass_flowing_sand:
 * Excício 2 :hourglass_flowing_sand:

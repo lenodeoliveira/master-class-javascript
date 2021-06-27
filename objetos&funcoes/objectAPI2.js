@@ -36,6 +36,10 @@ console.log(javascript2);
 console.log(Object.isExtensible(javascript2)); //testando se o preventExtensios foi ativado.
 console.log(Object.isSealed(javascript2)); //testando se o seal foi ativado.
 
+/*
+freeze: impede que o objeto tenha novas propriedades, apague ou modifique propriedades existentes.
+ */
+
 const javascript3 =  {
     name: 'Javascript',
     year: 1995,
