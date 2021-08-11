@@ -42,14 +42,14 @@
    * Herança :heavy_check_mark:
    * Object API :heavy_check_mark:
 
-* JSON :hourglass_flowing_sand:
-* Excício 2 :hourglass_flowing_sand:
-* Function :hourglass_flowing_sand:
-    * THIS :hourglass_flowing_sand:
-    * GETTER E SETTER :hourglass_flowing_sand:
-    * CALL, APPLY E BIND :hourglass_flowing_sand:
-    * NEW :hourglass_flowing_sand:
-    * INSTANCEOF :hourglass_flowing_sand:
+* JSON :heavy_check_mark:
+* Excício 2 :heavy_check_mark:
+* Function :heavy_check_mark:
+    * THIS :heavy_check_mark:
+    * GETTER E SETTER :heavy_check_mark:
+    * CALL, APPLY E BIND :heavy_check_mark:
+    * NEW :heavy_check_mark:
+    * INSTANCEOF :heavy_check_mark:
 
 * Exercício 3 :hourglass_flowing_sand:
 * Arrow Function :hourglass_flowing_sand:
